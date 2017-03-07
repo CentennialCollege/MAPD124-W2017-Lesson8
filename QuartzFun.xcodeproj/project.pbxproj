@@ -12,6 +12,7 @@
 		E91FB8301E6F5FB900B18A5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E91FB82E1E6F5FB900B18A5D /* Main.storyboard */; };
 		E91FB8321E6F5FB900B18A5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E91FB8311E6F5FB900B18A5D /* Assets.xcassets */; };
 		E91FB8351E6F5FB900B18A5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E91FB8331E6F5FB900B18A5D /* LaunchScreen.storyboard */; };
+		E91FB83D1E6F5FF400B18A5D /* QuartzFunView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E91FB83C1E6F5FF400B18A5D /* QuartzFunView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E91FB8311E6F5FB900B18A5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E91FB8341E6F5FB900B18A5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E91FB8361E6F5FB900B18A5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E91FB83C1E6F5FF400B18A5D /* QuartzFunView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuartzFunView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E91FB8311E6F5FB900B18A5D /* Assets.xcassets */,
 				E91FB8331E6F5FB900B18A5D /* LaunchScreen.storyboard */,
 				E91FB8361E6F5FB900B18A5D /* Info.plist */,
+				E91FB83C1E6F5FF400B18A5D /* QuartzFunView.swift */,
 			);
 			path = QuartzFun;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E91FB83D1E6F5FF400B18A5D /* QuartzFunView.swift in Sources */,
 				E91FB82D1E6F5FB900B18A5D /* ViewController.swift in Sources */,
 				E91FB82B1E6F5FB900B18A5D /* AppDelegate.swift in Sources */,
 			);
